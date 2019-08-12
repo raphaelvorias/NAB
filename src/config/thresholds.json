@@ -1,0 +1,100 @@
+{
+    "earthgeckoSkyline": {
+        "reward_low_FN_rate": {
+            "score": -9.975483739777868,
+            "threshold": 1.0
+        },
+        "reward_low_FP_rate": {
+            "score": -8.826901388460378,
+            "threshold": 1.0
+        },
+        "standard": {
+            "score": 19.024516260222146,
+            "threshold": 1.0
+        }
+    },
+    "spirit": {
+        "reward_low_FN_rate": {
+            "score": -9.975483739777868,
+            "threshold": 1.0
+        },
+        "reward_low_FP_rate": {
+            "score": -8.826901388460378,
+            "threshold": 1.0
+        },
+        "standard": {
+            "score": 19.024516260222146,
+            "threshold": 1.0
+        }
+    },
+    "expose": {
+        "reward_low_FN_rate": {
+            "score": -152.99306191651164,
+            "threshold": 0.212225752535
+        },
+        "reward_low_FP_rate": {
+            "score": -78.38967961577656,
+            "threshold": 0.243323534766
+        },
+        "standard": {
+            "score": -69.68890327595801,
+            "threshold": 0.223108485009
+        }
+    },
+    "null": {
+        "reward_low_FN_rate": {
+            "score": -232.0,
+            "threshold": 0.6250000000000001
+        },
+        "reward_low_FP_rate": {
+            "score": -116.0,
+            "threshold": 0.6250000000000001
+        },
+        "standard": {
+            "score": -116.0,
+            "threshold": 0.6250000000000001
+        }
+    },
+    "numenta": {
+        "reward_low_FN_rate": {
+            "score": 26.708757971899008,
+            "threshold": 0.512250003693
+        },
+        "reward_low_FP_rate": {
+            "score": 28.43648369731101,
+            "threshold": 0.523386545401
+        },
+        "standard": {
+            "score": 45.70875797189897,
+            "threshold": 0.512250003693
+        }
+    },
+    "relativeEntropy": {
+        "reward_low_FN_rate": {
+            "score": -27.2288224715,
+            "threshold": 0.5
+        },
+        "reward_low_FP_rate": {
+            "score": -5.57182391716,
+            "threshold": 0.5
+        },
+        "standard": {
+            "score": 10.7711775285,
+            "threshold": 0.5
+        }
+    },
+    "skyline": {
+        "reward_low_FN_rate": {
+            "score": -77.20605964639174,
+            "threshold": 0.8031250000000002
+        },
+        "reward_low_FP_rate": {
+            "score": -53.17159266153103,
+            "threshold": 0.8996093750000005
+        },
+        "standard": {
+            "score": -33.206059646391715,
+            "threshold": 0.8031250000000002
+        }
+    }
+}
