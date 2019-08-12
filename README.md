@@ -8,7 +8,7 @@ Three models have been implemented:
 - The kernel mean embedding model EXPoSE, by Schneider et al. [link](https://arxiv.org/abs/1601.06602)
 - A custom Conditional kernel mean embedding Conditional EXPoSE, which was implemented for a master's thesis.
 
-Next to some original NAB datasets, some synthetic datasets were generated.
+Next to certain original NAB datasets, additional synthetic datasets were generated.
 
 ### Quickstart guide:
 1. Put your dataset in `data-preprocessed/`
