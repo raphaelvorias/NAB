@@ -1,4 +1,4 @@
-*Customized NAB for Multivariate data*
+# Customized NAB for Multivariate data
 
 ### Description
 This project is based on the Numenta Anomaly Benchmark and provides a testing environment for multivariate streaming anomaly detection models.
