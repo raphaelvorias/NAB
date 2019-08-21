@@ -12,5 +12,5 @@ Next to certain original NAB datasets, additional synthetic datasets were genera
 
 ### Quickstart guide:
 1. Put your dataset in `data-preprocessed/`
-2. Follow `srs/pipeline.py`
+2. Follow `src/pipeline.py`
 3. Results should be shown and stored in `results/`
